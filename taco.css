@@ -1,0 +1,39 @@
+h1{
+background-color: tomato;
+color: aqua;
+}
+a{
+color: blue;
+
+
+}
+figcaption{
+    color: crimson;
+}
+h2{
+    color: blue;
+}
+p{
+    color: rgb(82, 97, 235);
+}
+abbr{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+summary{
+    color: rgb(189, 24, 12);
+}
+article{
+    color: blue;
+}
+thead{
+    color: blue;
+}
+tfoot{
+    color: crimson;
+}
+th :scope{
+    color: maroon;
+}
